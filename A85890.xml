@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true case of the state of Sir John Gell, prisoner in the Tower: accused of high treason, and misprision of treason. With a short argument thereupon.</title>
+            <author>Gell, John, Sir, 1593-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85890</idno>
+            <idno type="STC">Wing G467</idno>
+            <idno type="STC">Thomason E612_17</idno>
+            <idno type="STC">ESTC R206494</idno>
+            <idno type="EEBO-CITATION">99865642</idno>
+            <idno type="PROQUEST">99865642</idno>
+            <idno type="VID">117890</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117890)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E612[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true case of the state of Sir John Gell, prisoner in the Tower: accused of high treason, and misprision of treason. With a short argument thereupon.</title>
+                  <author>Gell, John, Sir, 1593-1671.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Attributed to Sir John Gell.</note>
+                  <note>Annotation on Thomason copy: "7ber. 16 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gell, John, --  Sir, 1593-1671.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117890:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 105 -->
+            <head>The true Caſe of the ſtate of Sir JOHN GELL, Priſoner
+in the Tower: Accuſed of High Treaſon, and miſ<g ref="char:EOLhyphen"/>priſion of
+Treaſon.</head>
+            <head type="sub">With a ſhort Argument thereupon.</head>
+            <div type="introduction">
+               <p>THat <hi>John Barnard,</hi> with one <hi>Pits</hi> (by the
+name of <hi>Smith</hi>) deſired Mr. <hi>Andrews</hi> to joyn with them in a
+plot, to ſurprize the Iſle of <hi>Ely.</hi>
+               </p>
+               <p>That <hi>Andrews</hi> was thought to be ſomewhat inclina<g ref="char:EOLhyphen"/>ble
+thereunto: <hi>Barnard</hi> comes to the Lord Preſident <hi>Bradſhaw,</hi>
+and acquaints him with it.</p>
+               <p>The Lord Preſident bids <hi>Bernard</hi> go forward with the
+plot, as <hi>Bernard</hi> declares in Court at the trial of
+<hi>Andrews.</hi>
+               </p>
+               <p>That <hi>Bernard</hi> did go again with <hi>Pits,</hi> to
+<hi>Andrews,</hi> and told him, that if he would draw an Oath of Secreſie,
+and ſigne and ſeal the ſame, then <hi>Bernard</hi> would help him to two
+hundred pounds, to bear his charges beyond Sea, to get Commiſſions to
+raiſe men for the effecting the ſaid plot; and that both <hi>Bernard</hi>
+and <hi>Pits,</hi> did promiſe to ſign and ſeal the Oath of ſecreſie
+likewiſe.</p>
+               <p>That <hi>Andrews</hi> (being in neceſſity) upon
+<hi>Bernards</hi> mo<g ref="char:EOLhyphen"/>tion) did ſign and ſeal the Oath aforeſaid.</p>
+               <p>That <hi>Bernard</hi> and <hi>Smith</hi> did ſign and ſeal
+the Oath alſo.</p>
+               <pb n="2" facs="tcp:117890:2"/>
+               <!-- PDF PAGE 106 -->
+               <p>Then <hi>Bernard</hi> deſired <hi>Andrews</hi> to write a
+Letter to ſome Perſons of Note, to ſubſcribe the Oath; <hi>Andrews</hi>
+thereupon writes a Letter directed to Sir <hi>John</hi> Baronet.</p>
+               <p>That as ſoon as this was done, <hi>Bernard</hi> had Officers
+ready, and ſeized on <hi>Andrews</hi> for high Treaſon, and then brings the
+Letter directed to Sir <hi>John</hi> Baronet, to the Lord Preſident
+<hi>Bradſhaw.</hi>
+               </p>
+               <p>That the Lord Preſident kept the Letter, and lets
+<hi>Bernard</hi> and <hi>Pits</hi> have a Copy of it.</p>
+               <p>That <hi>Bernard</hi> and <hi>Pits</hi> brings the Copy (as
+they ſay) to Sir <hi>John Gell.</hi>
+               </p>
+               <p>That <hi>Bernard</hi> and <hi>Pits</hi> both ſay, Sir
+<hi>John Gell</hi> did refuſe to Act in the ſame Plot, and ſo burnt the
+Letter.</p>
+               <p>That the Letter was brought to Sir <hi>John Gell</hi> (as
+<hi>Ber<g ref="char:EOLhyphen"/>nard</hi> and <hi>Pits</hi> ſaith) on a Saturday-night after ten of
+the Clock.</p>
+               <p>That Maſter <hi>Spittlehouſe</hi> a Meſſenger had a
+Warrant the next morning early (being the Lords day) to appre<g ref="char:EOLhyphen"/>hend Sir <hi>John
+Gell.</hi>
+               </p>
+               <p>That Sir <hi>John Gell</hi> hath for the ſpace of above five
+moneths been Cloſe Priſoner in the <hi>Tower,</hi> and now to be tried
+before the high <hi>Court</hi> of <hi>Justice</hi> for Treaſon, and
+miſpriſion of Treaſon.</p>
+               <p>That it doth clearly appear, that the Lord Preſident was
+privy to all theſe Proceedings.</p>
+            </div>
+            <div type="argument">
+               <pb n="3" facs="tcp:117890:2"/>
+               <!-- PDF PAGE 106 -->
+               <head>The Argument.</head>
+               <p>
+                  <hi>Upon the whole matter, here muſt needs appear a a foul
+Conſpiracy, and foul practiſe, againſt the Life and Eſtate of Sir John
+Gell, by Bernard and Pits, to the knowledge of the Lord Preſident; as
+appears, thus:</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>1</hi> THe Letter was directed to Sir <hi>John
+Baronet,</hi> what was that to Sir <hi>John Gell?</hi>
+                  </item>
+                  <item>
+                     <hi>2</hi> The Letter was delivered by <hi>Bernard</hi>
+to the Lord Preſi<g ref="char:EOLhyphen"/>dent; why then a Copy ſent to Sir <hi>John Gell,</hi>
+unleſs it were to enſnare him?</item>
+                  <item>
+                     <hi>3</hi> The Warrant was made to apprehend Sir <hi>John
+Gell;</hi> why not to take Sir <hi>John Baronet,</hi> to whom the Letter was
+directed? Then had Sir <hi>John Gell</hi> been never queſtioned.</item>
+                  <item>
+                     <hi>4</hi> It doth appear, that the Lord Preſident knew
+that <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> and <hi>Pits</hi> would deliver the Copy of the Letter
+to Sir <hi>John Gell,</hi> or elſe why ſhould the Warrant be made to take
+Sir <hi>John Gell?</hi>
+                  </item>
+                  <item>
+                     <hi>5</hi> The pretended Letter was delivered Saturday
+night, af<g ref="char:EOLhyphen"/>ter ten of the clock, and the Warrant to take Sir <hi>John Gell,</hi>
+was the next morning in the Meſſengers hands; ſo that it is more than
+probable, that the Warrant was made before the pre<g ref="char:EOLhyphen"/>tended Letter was delivered;
+for that the <hi>Councel</hi> of <hi>State</hi> ſeldom ſits of a
+Saturday-night after ten a Clock, and on Sun<g ref="char:EOLhyphen"/>day morning to be ſure they did
+not ſit: now let all rational men judge, what a Snare here was laid, (and by
+whom) to catch Sir <hi>John Gell:</hi> Is this Justice to make a Warrant to
+take a man before any pretended Crime be committed!</item>
+               </list>
+               <pb n="4" facs="tcp:117890:3"/>
+               <!-- PDF PAGE 107 -->
+               <p>Again, Sir <hi>John Gell</hi> doth deny that he received any
+ſuch letter or Copy of letter: and for that the High Court of Juſtice, hath
+no colour of proof, but the othes of this <hi>Bernard</hi> and <hi>Pits</hi>
+who are no evidence in law; neither is their teſtimony valid by the Common
+nor Civil law, for that they are both perjured and ſcandalous: <hi>1.</hi>
+Perjured, they are twice over in this copy. <hi>1.</hi> For that they entred
+into an oath of ſecrefie, with an intent to break it, and did break it.
+<hi>2.</hi> For that they have ſworn they delivered <hi>Andrews</hi> his
+letter to Sir <hi>John Gell,</hi> and the Lord Preſident ſaith it was but a
+copy, and it wil be proved, that the Lord Preſident had the letter, and that
+it never came to Sir <hi>John Gell;</hi> now it is evidently ſeen, that they
+are both already perjured in this very caſe; what men in the world ought to
+be<g ref="char:EOLhyphen"/>lieve theſe witneſſes? And then for forgery &amp; ſubornation,
+<hi>Ber<g ref="char:EOLhyphen"/>nard</hi> hath been very frequent in; as in forging or countenan<g ref="char:EOLhyphen"/>cing
+the forgers, of ſeverall Acts of Parliament, and other deeds and writings
+againſt Mr. <hi>Brown,</hi> formerly Clerk of the Parla<g ref="char:EOLhyphen"/>ment; and for his
+ſubornation, he the ſaid <hi>Bernard</hi> did offer to <hi>John
+Benſon,</hi> a large ſumme of mony, to ſwear to the articles he had
+againſt Mr. Speaker, although he knew well that <hi>Ben<g ref="char:EOLhyphen"/>ſon</hi> did not
+know any word in the articles to be true.</p>
+               <p>Again, <hi>Barnard</hi> hath been a Cavalier in arms againſt
+the parliament, he is a known Papiſt, and a reputed Jeſuite; a contriver of
+plots to ſet the nation at variance, and to make the Parliament and Councel
+of State odious in the eyes of the peo<g ref="char:EOLhyphen"/>ple, as will appear by this practice,
+and by the articles hereafter reſited; which articles were long ſince
+delivered to ſome of the Members of Parliament, under the hand of Mr.
+<hi>Stephen Sprat;</hi> which being well conſidered, you may ſee who is the
+traytor.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:117890:3"/>
+               <!-- PDF PAGE 107 -->
+               <head>To the ſupream Authority; the Parliament of the
+Common-Wealth of <hi>England.</hi>
+               </head>
+               <head type="sub">Articles humbly exhibited againſt <hi>John
+Bernard,</hi> Gent. now called by the name of Captain <hi>Bernard,</hi> for
+ſafety of the Par<g ref="char:EOLhyphen"/>liament, and on behalf of this Common-Wealth, by
+<hi>Stephen Spratt.</hi>
+               </head>
+               <p n="1">1 <hi>THat the ſaid</hi> John Bernard <hi>did ſpeak
+to Col.</hi> Wil<g ref="char:EOLhyphen"/>liam Eyres, <hi>to joyn with him the ſaid</hi> John, <hi>to
+raiſe five hundred men to cut the throats of the Parliament; or words to that
+effect.</hi>
+               </p>
+               <p n="2">2 <hi>That he the ſaid</hi> Bernard, <hi>did ſay
+to</hi> William Learner, <hi>that it would never be well for</hi> England,
+<hi>till thirty of the Gran<g ref="char:EOLhyphen"/>dees ſitting in this Parliament, were cut off;
+and that the onely way for freedome, was to raiſe the people to deſtroy the
+Parlia<g ref="char:EOLhyphen"/>ment; or words to that effect.</hi>
+               </p>
+               <p n="3">3 <hi>That the ſaid</hi> John Bernard <hi>did ſay
+to</hi> Richard Par<g ref="char:EOLhyphen"/>ham, <hi>that he did proſecute</hi> Mr. Speaker, <hi>for
+no other end, but to throw a bone amongſt the Members of Parliament, to ſet
+them at variance, to deſtroy them, or words to that effect.</hi>
+               </p>
+               <p n="4">4 <hi>That it hath been the daily practice of the
+ſaid</hi> Bernard, <hi>to foment and create diſturbances and diſtractions
+in Parlia<g ref="char:EOLhyphen"/>ment, and between the Parliament and people, ſince</hi> England
+<hi>was a fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee Common-Wealth; and to that purpoſe, did ſpeak to</hi>
+William Lazinby, <hi>to aſſiſt him the ſaid</hi> John, <hi>to raiſe
+four<g ref="char:EOLhyphen"/>ſcore men, to ſeiz upon</hi> Mr. Speaker, <hi>and to cut his
+throat.</hi>
+               </p>
+               <pb n="6" facs="tcp:117890:4"/>
+               <!-- PDF PAGE 108 -->
+               <p n="5">5. <hi>That the ſaid</hi> Bernard <hi>is reported to
+be a Papist, and one of a Jeſuitical practice, and hath been in Arms for the
+late King against the Parlament, and the better to bring about his traiterous
+Deſign, he did not onely foment and raiſe Articles against the Speaker of
+this Parlament, but against many other Members of the ſame, and did go to and
+fro ſhewing the ſaid Articles to ſeveral People, to raiſe the Spirits
+of the People a<g ref="char:EOLhyphen"/>gainst the Parlament.</hi>
+               </p>
+               <p>By theſe Articles the World may judge whether
+<hi>Ber<g ref="char:EOLhyphen"/>nard</hi> be not as great a Traitor as ever yet was heard of in theſe
+Times; and therefore conſider of how dangerous a Conſequence it will be to
+take his Teſtimony for Evi<g ref="char:EOLhyphen"/>dence againſt any who hath been for the
+Parlament; if this man be believed for a Witneſs, and let paſs with theſe
+wicked practiſes, the Parlaments beſt Friends will be in danger; he may as
+well conntrive Plots to inſnare the Members of Parlament one after another,
+as he hath already done! or he may put the ſame Trick upon any Member of the
+high <hi>Court</hi> of <hi>Justice,</hi> or any other Per<g ref="char:EOLhyphen"/>ſon; where ſuch
+foul practices go unpuniſhed no man can be ſafe; for inſtance, when he
+had the pretended Copy of the Letter, directed to Sir <hi>John</hi> Baronet, he
+might have made whom he pleaſe Sir <hi>John</hi> Baronet, he might as well
+have delivered the Letter to any Sir <hi>John</hi> who had been or is now a
+Member of Parlament, as well as to Sir <hi>John Gell,</hi> and ſo he might
+have brought into trouble whom he pleaſed.</p>
+               <p>And then for Treaſon, there could be no Treaſon un<g ref="char:EOLhyphen"/>leſs
+there had been ſome real Deſign againſt the Com<g ref="char:EOLhyphen"/>mon-wealth, but in this
+pretended Plot there doth not appear any, becauſe the Contriver never
+intended (as may be ſuppoſed by his Diſcover,) that it ſhould ever come
+to paſs! ſo it doth appear, that this was a meer <pb n="7" facs="tcp:117890:4"/>
+                  <!-- PDF PAGE 108 -->feigned Fiction or Reſemblance of a
+Plot; not to hurt the Common-wealth, but to betray and inſnare parti<g ref="char:EOLhyphen"/>cular
+Perſons for <hi>Bernard's</hi> Gain.</p>
+               <p>And the Act was not made to prevent and puniſh Fantaſies,
+Fictions, or Plays, but real and wicked practi<g ref="char:EOLhyphen"/>ces, and pernicious deſignes
+to ſtir up a new and bloudy War, and therefore it can be thought no leſs
+than a piece of pure Juſtice for the Parlament, to refer this buſineſs to
+a Committee to examine, and report, that they may ſee what Cauſe there is
+to try Sir <hi>John Gell,</hi> before they give way for his Triall.</p>
+               <p>And for miſpriſion and Concealment of Treaſon, there can
+be none, where there is no Treaſon (for with<g ref="char:EOLhyphen"/>out a Principal there can be no
+Acceſſary) and miſpriſi<g ref="char:EOLhyphen"/>on or concealment of Treaſon is onely to know
+of Trea<g ref="char:EOLhyphen"/>ſon, and not to reveal it to the State, which was not in<g ref="char:EOLhyphen"/>tended Sir
+<hi>John Gell</hi> ſhould do, for that there was not time enough for him to
+reveal it, between the time of the pretended Delivery of the pretended Letter,
+and the granting of the Warrant to take him.</p>
+               <p>Again, further it could be no miſpriſion or Conceal<g ref="char:EOLhyphen"/>ment
+of Treaſon in Sir <hi>John Gell,</hi> becauſe it was known to the State
+before it was known to him; as it appears by <hi>Bernard's</hi> teſtimony in
+Court, the Lord Preſident knew of it: Now, if it ſhould be miſpriſion
+of Trea<g ref="char:EOLhyphen"/>ſon not to reveal Treaſon after the State knows of it, then it is
+miſpriſion in all men that hears of this (pre<g ref="char:EOLhyphen"/>tended Treaſon) and do not
+go and reveal it to the State; but it is no miſpriſion nor concealment of
+Trea<g ref="char:EOLhyphen"/>ſon for any not to reveal Treaſon to the State, when the State knows
+of it before; and they did know of it; for <hi>Andrews</hi> was ſeized at
+<hi>Graveſend,</hi> before the pretended Letter was brought to Sir <hi>John
+Gell.</hi>
+               </p>
+               <pb n="8" facs="tcp:117890:5"/>
+               <!-- PDF PAGE 109 -->
+               <p>And if it ſhall be objected, that <hi>Andrews</hi> was the
+prin<g ref="char:EOLhyphen"/>cipal in the pretended Treaſon, and Sir <hi>John Gell</hi> the
+ac<g ref="char:EOLhyphen"/>ceſſary, and Concealer of it, then the Anſwer will be thus:</p>
+               <p>That nothing brings Sir <hi>John Gell</hi> in queſtion, but
+the Letter which <hi>Bernard</hi> ſayes he delivered (from <hi>Andrews</hi>
+directed to Sir <hi>John,</hi> Baronet) to Sir <hi>John Gell;</hi> which
+Let<g ref="char:EOLhyphen"/>ter was brought to the Lord Preſident, and a Copy pre<g ref="char:EOLhyphen"/>tended to be
+afterwards delivered to Sir <hi>John Gell;</hi> ſo that he received nothing
+from <hi>Andrews:</hi> if he received any thing it muſt, be from
+<hi>Bernard,</hi> and known to the Lord Preſident: which makes him not to be
+acceſſary, to <hi>Andrews</hi> his Treaſon; if Sir <hi>John</hi> ſhould
+be guilty of miſpriſion or Concealment of treaſon, then <hi>Bernard</hi>
+muſt be the principal; but <hi>Bernard</hi> is not charged with trea<g ref="char:EOLhyphen"/>ſon;
+therefore Sir <hi>John</hi> not guilty of miſpriſion, or con<g ref="char:EOLhyphen"/>cealment of
+treaſon.</p>
+               <p>If it ſhould be objected, that <hi>Andrews</hi> delivered
+the Letter to <hi>Bernard,</hi> directed to Sir <hi>John,</hi> Baronet, with
+pri<g ref="char:EOLhyphen"/>vate Inſtructions, to be delivered to Sir <hi>John Gell,</hi> as
+<hi>Ber<g ref="char:EOLhyphen"/>nard</hi> ſwears he did; then anſwer, What man of common Reaſon
+will believe <hi>Bernard,</hi> who is ſo foul a perjured Traitor, and a party
+to the pretended <hi>Plot.</hi>
+               </p>
+               <p>Again, (if that ſhould be admitted) Could Sir <hi>John
+Gell</hi> prevent <hi>Andrews</hi> from ſending him a Letter, or
+<hi>Ber<g ref="char:EOLhyphen"/>nard</hi> of bringing it, Sir <hi>John Gell</hi> not knowing of the
+Letter, and therefore he could be no party in the plot; What if
+<hi>Bernard</hi> ſhould bring a Letter from a Traitor to any Membr of
+<hi>Parlament,</hi> or high <hi>Court</hi> of <hi>Justice,</hi> (as it is like
+he will do many, if he be let alone) and have a Serjeant at Arms ready to
+attach them upon Receit of the Letter, before they can reveal it; are they
+therefore ever the more guilty of treaſon, or miſpriſion, or con<g ref="char:EOLhyphen"/>cealment
+<pb n="9" facs="tcp:117890:5"/>
+                  <!-- PDF PAGE 109 -->of treaſon; no, nor Sir
+<hi>John Gell</hi> is not guilty of treaſon, nor miſpriſion, or
+concealment of treaſon, nei<g ref="char:EOLhyphen"/>ther did he ever receive any Letter or Copy of a
+Letter from <hi>Andrews,</hi> by <hi>Bernard</hi> or any other perſon, as
+will ap<g ref="char:EOLhyphen"/>pear by theſe following Lines, written and ſubſcribed by the hand
+of a dying Man.</p>
+               <p>I Colonel <hi>Euſebius Andrews,</hi> being this day to die,
+by God's good providence, finding by the teſtimony given by <hi>Jo.
+Bernard</hi> (which God forgive) againſt me upon my Triall, that the matter
+of his Averment concerning the delivery of a Letter by me written unto Sir
+<hi>John Gell,</hi> as diſpoſed to the hand of him the ſaid Sir <hi>John
+Gell,</hi> in Caſe the Court upon Triall of Sir <hi>John Gell,</hi> ſhall
+give credit thereunto, may tend to the Deſtruction of the ſaid Sir
+<hi>John;</hi> do in my tender and Chriſtian deſire, as much as in me lies,
+to prevent the hurt intended to the Innocent, proteſt before God, that I my
+ſelf was examined to the Original Letter, by me to him written from
+<hi>Graveſend,</hi> which was at the time of my being confronted with Sir
+<hi>John Gell,</hi> in the hands of the Lord Preſident <hi>Bradſhaw;</hi>
+and that the Lord <hi>Bradſhaw</hi> demanding of him, where the Letter was, I
+then ſaid, he did never receive it, and Sir <hi>Henry Mildmay</hi> had nere
+diſcovered the ſaid Letter, if the Lord Preſident had not given him a
+hint, and that the Letter Original was not directed to Sir <hi>Iohn Gell</hi>
+by me, but to Sir <hi>Iohn</hi> Baronet, but not to Sir <hi>Iohn Gell,</hi>
+               </p>
+               <closer>
+                  <signed>Witneſs the dying hand of <hi>Euſebius
+Andrews.</hi>
+                  </signed> 
+                  <dateline>
+                     <date>
+                        <hi>Aug.</hi> 22.</date>
+                  </dateline> 
+                  <pb n="10" facs="tcp:117890:6"/>
+                  <!-- PDF PAGE 110 -->
+               </closer>
+               <postscript>
+                  <p>And whereas it is reported, that Sir <hi>Iohn Gell</hi> hath
+got<g ref="char:EOLhyphen"/>ten a great Eſtate by the Wars; this let the World know that a great part
+of the County of <hi>Derby-ſhire,</hi> hath, been examined againſt him;
+many of them by the Com<g ref="char:EOLhyphen"/>mittee of <hi>Accounts</hi> formerly ſitting in
+<hi>Cornwall, (London)</hi> and others by the Committee of the County, &amp; no
+man<g ref="char:EOLhyphen"/>ner of miſdemeanour could be found againſt him, which he ever did act
+againſt the State, and therefore he doth refer his Friends and Enemies (if
+any Conſcience be left in them) to his late Vindication publiſhed in print,
+which here follows, <hi>in haec verba;</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="part">
+               <head>The Vindication of <hi>John Gell</hi> Barronet, ſet forth
+by way of protestation; againſt ſeveral Scandals and Calumnies, caſt upon
+him, by ſome malitious Enemies.</head>
+               <p>WHereas ſeveral Scandals and Calumnies are caſt upon me,
+by ſome unworthy, malitious ſpirits, who ſeeks my ruine; That in the time
+of war, when I had command in Derby-ſhire, I did get to my ſelf, a great
+eſtate, by taxing the Coun<g ref="char:EOLhyphen"/>ty, as alſo by plundering, and getting into my
+hands the Eſtates of ſeveral delinquents, and other great ſums of money,
+which I ſhould receive in the ſaid County, and thereabouts;</p>
+               <p>Theſe are therefore, in the preſence of the Al<g ref="char:EOLhyphen"/>mighty 
+<pb n="11" facs="tcp:117890:6"/>
+                  <!-- PDF PAGE 110 -->God, by Proteſtation,
+without any equi<g ref="char:EOLhyphen"/>vocation, mental Reſervation, or ſecret Evaſion, That
+neither directly, nor indirectly, I got to my ſelf, or to any other Perſon,
+for my uſe, by way of tax, receipt, plundering, or otherwiſe, one penny, or
+pennies worth of the money, or goods of any perſon, or perſons
+whatſoever; nor for above five years ſervice, and ſome thouſands of
+pounds out of purſe, never did receive the value of one hun<g ref="char:EOLhyphen"/>dred pound, But
+all taxes, receipts, and other pub<g ref="char:EOLhyphen"/>lick money were paid to, and received by Mr.
+Na<g ref="char:EOLhyphen"/>thaniel Hallowes, Mr. Jervis Bennet, and Henry Buchſton, who were
+Treaſurers of the County, one after another; and without all queſtion they
+being men of honeſt and known integrity, will juſtifie me in this my
+Proteſtation; to the truth whereof, I do call the great God of Heaven and
+Earth to witneſs; and upon this iſſue, I will caſt my ſelf upon the
+Parliament, avowing, that if any thing be proved, contrary to what I have here
+publiſhed, I will be willing to forfeit and looſe all that is near and dear
+unto me.</p>
+               <closer>
+                  <signed>JOHN GELL.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
